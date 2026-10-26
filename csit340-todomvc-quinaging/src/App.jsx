@@ -5,8 +5,8 @@ import Info from './components/Info.jsx'
     return (
       <div className="min-h-screen bg-[#f5f5f5] py-8 font-light text-[#111]">
         <Todos />
-        <Info name="YOUR NAME" />
-      </div>
+        <Info name="Kris Van Ruzzel Quinaging" />
+    </div>
   )
 }
  

@@ -38,7 +38,7 @@ function Todos(){
               <span className="flex-1 py-[15px] pr-[60px] pl-[15px] break-all text-[#949494] line-through">Set up Tailwind</span>
                 <button
                     type="button"
-                    className="absolute right-[10px] hidden size-10 cursor-pointer text-[30px] text-[#949494] group-hover:block hover:text-[#c18585]" >
+                    className="absolute right-[10px] hidden size-10 cursor-pointer text-[30px] text-[#949494] group-hover:block hover:text-[#c18585]" >x
                     </button>
                 </li>  
             </ul>
@@ -55,7 +55,7 @@ function Todos(){
                   </button>
              </li>  
                 <li>
-                  <button
+                   <button
                   type="button"
                     className="cursor-pointer rounded-[3px] border border-transparent px-[7px] py-[3px] hover:border-[#b83f45]/10">
                    Active
